@@ -1,5 +1,7 @@
 # CORONAVIRUS TWEET SENTIMENT ANALYSIS
 
+![188276827-a3b1e9d2-88f2-4b07-80b0-e66da7915abd](https://github.com/Ashif-khan033/coronavirus_tweets_sentiment_analysis/assets/117459380/eb6269a4-5a06-41b3-a3ae-50e93169ae38)
+
 **📋 PROBLEM STATEMENT:**
 This challenge asks you to build a classification model to predict the sentiment of COVID-19 tweets. The tweets have been pulled from Twitter and manual tagging has been done then.
 
